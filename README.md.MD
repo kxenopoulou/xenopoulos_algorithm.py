@@ -122,7 +122,6 @@ If you use this work in an academic context, please cite it as follows:
 
 ## 🔗 Links
 - 📚 [Full Book (ResearchGate)](https://www.researchgate.net/publication/359717578)
-- 🌍 [Live Demo (Colab Notebook)](https://colab.research.google.com)
 - 📜 [Academic Reference (Zenodo)](https://doi.org/10.5281/zenodo.14957089)
 
 ---
