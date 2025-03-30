@@ -1,4 +1,10 @@
-README (English)# Epameinondas Xenopoulos
+README (English)# Epameinondas Xenopoulos# Epameinondas Xenopoulos
+
+![Epameinondas Xenopoulos](./Epameinondas%20Xenopoulos.jpg)
+
+**Epameinondas Xenopoulos** is the Greek philosopher, founder, and creator of all the dialectical ideas developed in this repository. His work serves as the cornerstone for the exploration of philosophical concepts and theories presented here.
+
+Through his groundbreaking ideas, Epameinondas Xenopoulos has inspired generations to think critically and embrace the complexities of dialectical reasoning.
 
 [Epameinondas Xenopoulos](./Epameinondas%20Xenopoulos.jpg)
 
